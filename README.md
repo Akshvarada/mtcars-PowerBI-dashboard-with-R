@@ -1,6 +1,8 @@
 # mtcars-PowerBI-dashboard-with-R
 A project combining Power BI and R to analyze and visualize automotive data. It includes scatterplots, histograms, bar plots, and boxplots to explore relationships between car attributes like weight, displacement, horsepower, and miles per gallon, showcasing the power of both tools for data analysis.
 
+![Screenshot](Screenshot%202025-01-12%20200000.png)
+
 # Power BI and R Visualization Project
 
 This repository contains a Power BI project that visualizes car-related data using various R scripts. The dataset includes variables such as weight, displacement, horsepower, gear, miles per gallon, and cylinders.
